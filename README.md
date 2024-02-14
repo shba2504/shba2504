@@ -14,7 +14,7 @@ I'm originally from Kingston, Jamaica, but I've lived in NYC, CA, and, currently
 - <a href="https://github.com/shba2504/React-Portfolio-Website" target="_blank">React Portfolio</a> - Portfolio website built using React for the Meta Front-End course.
 
 ### Next Project
-- A travel booking app to solidify my ability to work with real-time data.
+- A travel booking app to hone my skills working with real-time data.
 
 <!--
 - 🔭 I’m currently working on ...
