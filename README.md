@@ -11,7 +11,7 @@ I'm originally from Kingston, Jamaica, but I've lived in NYC, CA, and, currently
 <a href="https://www.linkedin.com/in/sheenambarnes/" target="_blank">LinkedIn</a>
 
 ### Recent Projects
-- <a href="https://github.com/shba2504/sweetandsavory" target="_blank">Sweet and Savory</a> - A breakfast restaurant; currently working on implementing an e-commerce feature.
+- <a href="https://github.com/shba2504/sweetandsavory" target="_blank">Sweet and Savory</a> - A breakfast restaurant built using Vite React.
 - <a href="https://github.com/shba2504/React-Portfolio-Website" target="_blank">React Portfolio</a> - Portfolio website built using React for the Meta Front-End course.
 
 ### Next Project
