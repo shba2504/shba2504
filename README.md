@@ -11,11 +11,12 @@ I'm originally from Kingston, Jamaica, but I've lived in NYC, CA, and, currently
 <a href="https://www.linkedin.com/in/sheenambarnes/" target="_blank">LinkedIn</a>
 
 ### Recent Projects
+- <a href="#" target="_blank">West & Main</a> - A home and decor site built with HTML, CSS, and vanilla JS.
 - <a href="https://github.com/shba2504/sweetandsavory" target="_blank">Sweet and Savory</a> - A breakfast restaurant built using Vite React.
 - <a href="https://github.com/shba2504/React-Portfolio-Website" target="_blank">React Portfolio</a> - Portfolio website built using React for the Meta Front-End course.
 
 ### Next Project
-- A personal book library catalogue with search features by title, author, number of pages, genre, etc. Will also include a feature to easily add or remove books from the collection and label books by genre and subject.
+- A personal book library catalog with search features by title, author, number of pages, genre, etc. Will also include a feature to easily add or remove books from the collection and label books by genre and subject.
 - A travel booking app to hone my skills working with real-time data.
 
 <!--
